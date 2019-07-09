@@ -4,7 +4,7 @@ User stories:
 
 Let's say that he wanted information about for example Apple or Steve Jobs and wanted to know if a particular article had some information about this topic.
 
-* The purpose is to create a script that could look inside a folder and find those files that contained an specific topic, specific word and copy those in another folder.
+* The purpose is to create a script that searches inside a folder and find files that contained an specific topic, specific word and copy them in another folder.
 
 - Steps :
 
