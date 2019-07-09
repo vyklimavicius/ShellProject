@@ -8,11 +8,11 @@ Let's say that we want to use the terminal to get information about an specific 
 
 - Steps :
 
-1. Search for all files containing an specific word. 
+1. Search for all files containing an specific word and redirect them to a new file.
 
-2. Create a folder and copy those files in a new folder.
+2. Create a folder and copy the new file.
 
 3. At the end of each copied file, add the line number of the specific word.
 
-4.
+
 
