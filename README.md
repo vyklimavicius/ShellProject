@@ -2,7 +2,7 @@
 
 User stories:
 
-Let's say that he wanted information about for example Apple or Steve Jobs and wanted to know if a particular article had some information about this topic.
+Let's say that we want to use the terminal to get information about an specific topic or word inside my directories.
 
 * The purpose is to create a script that searches inside a folder and find files that contain an specific topic, specific word and copy them in another folder.
 
